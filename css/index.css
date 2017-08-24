@@ -1,0 +1,179 @@
+
+#nav div.col-sm-10 div.navbar-header a{
+    font-size:.38rem;
+    color: #5cd4b3;
+}
+
+#nav div.col-sm-10 div.collapse ul{
+    font-size:.2rem ;
+    color:#666;
+}
+.row{
+    margin: 0;
+}
+.liv{
+     width: 100%;
+    background: url("../images/home-bg.jpg");
+    background-size:cover;
+ }
+
+#banner{
+    background-color: rgba(48,55,67,0.8);
+
+}
+
+#banner div.col-sm-8  h1{
+    line-height:.7rem;
+    font-size: .35rem;
+    font-weight: bold;
+    color:#fff;
+}
+
+
+#banner div.col-sm-8  p{
+    font-size: .1rem;
+    font-weight: bold;
+    color:#fff;
+}
+
+#banner div.col-sm-8 p.last{
+    padding-bottom:.5rem;
+}
+
+#banner div.col-sm-8 img{
+    padding-bottom: 30px;
+}
+
+.mian .one div{
+    margin-top:.7rem;
+    padding: .4rem 0;
+}
+
+.mian .one div.col-sm-4 a{
+    text-decoration: none;
+    color:#000;
+}
+
+.mian .one div a .tit{
+    margin-top: .2rem;
+    line-height: .7rem;
+    font-size:.35rem ;
+    font-weight: bold;
+}
+.mian .one div a  p{
+    font-size:.2rem ;
+}
+
+.mian .two{
+    background: #d3d3d3;
+    padding:.8rem 0;
+    margin-bottom: .8rem;
+}
+
+
+.mian .two h2 ,.mian .three h2 ,.mian .five h2 ,.mian .six h2 {
+    font-size: 0.6rem;
+}
+
+.mian .two p ,.mian .three p ,.mian .five p ,.mian .six p {
+    font-size: 0.2rem;
+}
+
+
+.mian .three{
+    margin-bottom: .8rem;
+}
+
+.mian .three img{
+   margin-top:.1rem;
+}
+
+.mian .four{
+    background: #d3d3d3;
+    padding: 1rem 0;
+    margin-bottom: .8rem;
+
+}
+.mian .four .container .row .col-sm-3 .thumbnail{
+    border: none;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.mian .four .container .row  button{
+    width:100px;
+    height:40px;
+    border: 1px solid greenyellow;
+    background: #fff;
+    color: greenyellow;
+}
+
+.mian .five{
+    margin-bottom: .8rem;
+}
+
+.mian .five img{
+   margin-top:.3rem;
+}
+
+.mian .five  button{
+    width:120px;
+    height:30px;
+    border: 1px solid #41d2b1;
+    background: #41d2b1;
+    color: #fff;
+}
+
+.mian .liv{
+    width: 100%;
+    background: url("../images/contact-bg.png");
+    background-size:cover;
+}
+
+.mian .six{
+    background-color: rgba(48,55,67,0.7);
+}
+
+.mian .six{
+    background-color: rgba(0,0,0,0.7);
+    padding: 1rem 0;
+}
+.mian .six p,.mian .six h2{
+    color: #fff;
+}
+.mian .six  .form-horizontal .form-group .col-sm-6 input{
+    margin-top: .5rem;
+    width: 4rem;
+    border-radius: 0;
+}
+
+.mian .six  .form-horizontal .form-group .col-sm-12 input{
+    width: 8.15rem;
+    border-radius: 0;
+}
+
+.mian .six  .form-horizontal .form-group .col-sm-12 input.one{
+    height: 3rem;
+}
+
+.mian .six  .form-horizontal button{
+    width:150px;
+    height:30px;
+    border: 1px solid #41d2b1;
+    background: #41d2b1;
+    color: #fff;
+}
+
+.footer .row{
+    padding: .4rem 0 .3rem 0;
+    background:#272822 ;
+    color: #fff;
+}
+
+
+
+
+
+
